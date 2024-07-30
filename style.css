@@ -129,21 +129,21 @@ button:hover {
     background-color: rgb(168, 167, 164);
 
 }
-.letrap{
-  display: none;
-}
+    .letrap{
+      display: none;
+    }
 
-.link-facebook {
-  margin-top: 10px;
-}
-.senha{
-color: rgb(0, 0, 0);
+    .link-facebook {
+      margin-top: 10px;
+    }
+    .senha{
+    color: rgb(0, 0, 0);
 
-padding: 0;
-}
-.conteudo{
-  width: auto;
-}
+    padding: 0;
+    }
+    .conteudo{
+      width: auto;
+    }
 
 }
 
